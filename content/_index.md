@@ -20,7 +20,7 @@ It aims to provide a prototypical standalone software library to be used by thir
 {{< figure src="https://www.dbse.ovgu.de/dbse_media/Bilder/Banner/DBSE_egotec-height-133-width-167.png" height="70" width="70">}}
 </td>
 <td style="border: 0px solid #000000;">
-{{< figure src="/images/parcio.png" height="60" width="60">}}
+{{< figure src="./images/parcio.png" height="60" width="60">}}
 </td>
 </tr>
 </table>
