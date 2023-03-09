@@ -3,7 +3,7 @@ title: Documentation
 description: Mainroad theme documentation, including getting started, customization guides, and FAQ.
 ---
 
-#### Welcome to SMASH welcome page!
+#### Welcome to SMASH's home page!
 
 SMASH is a joint initiatve by the [DBSE](http://dbse.ovgu.de/) and [ParCIO](https://parcio.ovgu.de/) groups at Otto-von-Guericke-Universitat, and it also is part of [DFG Priority Program 2377](http://spp2377.uos.de). The core objective of the project is investigating the benefits of a common storage engine that manages a heterogeneous storage landscape, including traditional storage devices and non-volatile memory technologies.
 
